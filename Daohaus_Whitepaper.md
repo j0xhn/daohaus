@@ -1,4 +1,6 @@
-# Daohaus
+# !!! PAPER HAS MOVED !!!!
+To see the maintained version visit our [current repo](https://github.com/daohaus/paper)
+
 
 John D. Storey [✉️](mailto:johndangerstorey@gmail.com)
 
